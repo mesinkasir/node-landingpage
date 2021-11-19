@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+# NODE-X LANDING PAGE
 
-You can use the [editor on GitHub](https://github.com/mesinkasir/node-landingpage/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A new modern website build with node and express js landing page design.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Installation and documentation :
+[https://www.hockeycomputindo.com/2021/11/free-node-js-download-template-source.html](https://www.hockeycomputindo.com/2021/11/free-node-js-download-template-source.html)
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A demo visit here [test drive demo →](https://start.axcora.com)
 
-```markdown
-Syntax highlighted code block
+------------------------------------------------
 
-# Header 1
-## Header 2
-### Header 3
+![node cms website landing page free download gratis source code](https://1.bp.blogspot.com/-iLCJ2bKegew/YZcFojNWpGI/AAAAAAAAR88/YUr9P1JP-OAg0HkXlP8d-GLNKorCgQj4gCLcBGAsYHQ/s1024/free%2Btemplate%2Bthemes%2Blanding%2Bpage%2Bnode%2Bjs.jpg)
 
-- Bulleted
-- List
+------------------------------------------------
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+Simple and easy for learn node + express
 
-[Link](url) and ![Image](src)
-```
+Recipes :
++ bootstrap 
++ tailwind
++ node js
++ express js
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Installation and documentation :
+[https://www.hockeycomputindo.com/2021/11/free-node-js-download-template-source.html](https://www.hockeycomputindo.com/2021/11/free-node-js-download-template-source.html)
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mesinkasir/node-landingpage/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+A demo visit here [test drive demo →](https://start.axcora.com)
 
-### Support or Contact
+-----------------------------------------
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+![node cms website landing page free download gratis source code](https://1.bp.blogspot.com/-aL3ubykH0VQ/YZZoCJbisWI/AAAAAAAAR8g/kw2TAJFA53QG3WqylHCpMWTU4zfLduyUACLcBGAsYHQ/s4422/node%2Bjs%2Blanding%2Bpage%2Bweb%2Btemplate%2Bfree%2Bdownload.jpeg)
+
+
+-----------------------------------------
+INstallation and documentation :
+[https://www.hockeycomputindo.com/2021/11/free-node-js-download-template-source.html](https://www.hockeycomputindo.com/2021/11/free-node-js-download-template-source.html)
+
+
+A demo visit here [test drive demo →](https://start.axcora.com)
+
+
+--------------------------------------------------------------------------------------------------------------------
+
+### Buy me a coffee ☕️ ❤️  ✌🏻 
+
+with moneygram or western union
+
++ BANK CENTRAL ASIA
++ ACCOUNT NO : 0181884109
++ ACCOUNT NAME : SUCI CHANIFAH
++ IBAN/SWIFT CODE : CENAIDJA
